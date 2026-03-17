@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Magpie Resolution Scaler
+Comment=HiDPI fractional display scaling for Linux Mint
+Exec=python3 /opt/magpie-scaler/magpie_scaler.py
+Icon=preferences-desktop-display
+Terminal=false
+Categories=Settings;HardwareSettings;
+Keywords=display;resolution;scaling;hidpi;monitor;
+StartupNotify=true
